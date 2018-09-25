@@ -57,7 +57,7 @@
     "bitauth": "^0.1.1",
     "bitcore": "git://github.com/Dogeparty/dogecore.git#a369d0cad6f96c4b8f8bddec66c2c478cf7a24cc",
     "bufferput": "git://github.com/bitpay/node-bufferput.git",
-    "buffertools": "*",
+    "buffertools": "2.1.2",
     "commander": "^2.3.0",
     "connect-ratelimit": "git://github.com/dharmafly/connect-ratelimit.git#0550eff209c54f35078f46445000797fa942ab97",
     "cron": "^1.0.4",
@@ -73,7 +73,7 @@
     "socket.io": "1.0.6",
     "socket.io-client": "1.0.6",
     "soop": "=0.1.5",
-    "winston": "*",
+    "winston": "0.8.1",
     "xmlhttprequest": "~1.6.0"
   },
   "devDependencies": {
